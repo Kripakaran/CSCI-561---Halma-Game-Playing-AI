@@ -1,2 +1,2 @@
-# CSCI 561 - HALMA Game Playing AI
- Programming Assignment 2 done as part of CSCI-561 course under Professor Laurent Itti during Fall 2019.
+#  HALMA Game Playing AI
+ Created a game playing AI for the strategic board game invented by George Monks in the 1880s.
